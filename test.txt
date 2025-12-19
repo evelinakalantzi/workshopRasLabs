@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello local
+=======
+hello remote
+>>>>>>> ba200bb8cc3c2ca6e28263d778cb3d70f90fb46c
